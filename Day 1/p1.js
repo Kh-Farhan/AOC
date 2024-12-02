@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const input = fs
   .readFileSync(
-    "/Users/farhan.ahmed/Documents/Teamo/AOC/Day 1/Part 1/input.txt",
+    "/Users/farhan.ahmed/Documents/Teamo/AOC/Day 1/input.txt",
     "utf8"
   )
   .split("\n");
